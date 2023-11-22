@@ -60,8 +60,4 @@ Run the compiled executable to experience real-time visualization of the Mandelb
 
 If you'd like to contribute, please fork the repository and create a pull request. Feel free to open issues for feature requests or bug reports.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
-
 Explore the beauty of the Mandelbrot set in real-time with GPU acceleration. Happy coding!
